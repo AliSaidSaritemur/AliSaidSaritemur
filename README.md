@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🤙, I'm <b>Said</b> and I said...</h1>
+<h1 align="center">Hi 🤙, I'm <b>Said</b></h1>
 <br>
 <h2 align="center" color="green">Things in my Github Profile</h2<>
 <hr>
